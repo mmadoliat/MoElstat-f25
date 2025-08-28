@@ -1,13 +1,13 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Modern Elementary Statistics - Fall 2025",
+    "objectID": "course-links.html",
+    "href": "course-links.html",
+    "title": "Useful links",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Math Review, What is Statistics?\n💻Chapt 1 Math Review, 1\n\n\n\n\n\n\nThu, Aug 28\nGraphs, Frequency distributions, Histogram\n💻Chapt 2A 2.1, 2.2, 2.3, 2.4\n\n\n\n\n\n\nFri, Aug 29\n📃[1st week Summary]\n\n\n📝 [HW 0]\n\n\n2\nTue, Sep 2\nBox-Plot, z-scores, Bivariate Data\n💻Chapt 2B 2.5, 3.1\n\n\n\n\n\n\nThu, Sep 4\nLinear Correlation, Linear Regression\n💻Chapt 3 3.2, 3.3\n\n\n\n\n\n\nFri, Sep 5\n📃[2nd week Summary]\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nProbability of Events, Conditional Probability\n💻Chapt 4 4.1, 4.2\n\n\n\n\n\n\nThu, Sep 11\nRules of Probability, Disjoint and Independent\n4.3, 4.4, 4.5\n\n\n\n\n4\nMon, Sep 15\n📃[3rd week Summary]\n\n\n📝 HW 2 at 11:50 pm",
+    "text": "Homework\nTI-84 Guideline\nStat Calculator\nDistribution Calculator\nStat Tables\n🔗 on WebAssign\n🔗 Download here\n🔗 StatCalc(JAMM)\n🔗 DistCalc\n🔗 StatTables\n\n\nAdvanced Texbooks\n🔗 R Package\n🔗 Advanced R by Hadley Wickham\n🔗 Quarto\n🔗 R Markdown\n🔗 ggplot2: Elegant Graphics for Data Analysis\n🔗 Fundamentals of Data Visualization\n🔗 Data Visualization: A Practical Introduction\n🔗 R for Data Science\n\n\nSome Package documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
     "crumbs": [
       "Course information",
-      "Schedule"
+      "Useful links"
     ]
   },
   {
@@ -15,7 +15,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site!"
   },
   {
     "objectID": "computing/computing-cheatsheets.html",
@@ -51,14 +51,14 @@
     ]
   },
   {
-    "objectID": "course-links.html",
-    "href": "course-links.html",
-    "title": "Useful links",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Modern Elementary Statistics - Fall 2025",
     "section": "",
-    "text": "Homework\nTI-84 Guideline\nStat Calculator\nDistribution Calculator\nStat Tables\n🔗 on WebAssign\n🔗 Download here\n🔗 StatCalc(JAMM)\n🔗 DistCalc\n🔗 StatTables\n\n\nAdvanced Texbooks\n🔗 R Package\n🔗 Advanced R by Hadley Wickham\n🔗 Quarto\n🔗 R Markdown\n🔗 ggplot2: Elegant Graphics for Data Analysis\n🔗 Fundamentals of Data Visualization\n🔗 Data Visualization: A Practical Introduction\n🔗 R for Data Science\n\n\nSome Package documentation\n🔗 ggplot2: ggplot2.tidyverse.org\n🔗 dplyr: dplyr.tidyverse.org\n🔗 tidyr: tidyr.tidyverse.org\n🔗 forcats: forcats.tidyverse.org\n🔗 stringr: stringr.tidyverse.org\n🔗 lubridate: lubridate.tidyverse.org\n🔗 readr: readr.tidyverse.org",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses, and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nTOPIC\nMATERIALS\nDUE\n\n\n\n\n1\nTue, Aug 26\nIntroduction, Math Review, What is Statistics?  🎥 Lecture 1 (part one), 🎥 Lecture 1 (part two) - Sorry no audio 🔇\n💻Chapt 1 Math Review, 1\n\n\n\n\n\n\nThu, Aug 28\nGraphs, Frequency distributions, Histogram\n💻Chapt 2A 2.1, 2.2, 2.3, 2.4\n\n\n\n\n\n\nFri, Aug 29\n📃[1st week Summary]\n\n\n📝 [HW 0]\n\n\n2\nTue, Sep 2\nBox-Plot, z-scores, Bivariate Data\n💻Chapt 2B 2.5, 3.1\n\n\n\n\n\n\nThu, Sep 4\nLinear Correlation, Linear Regression\n💻Chapt 3 3.2, 3.3\n\n\n\n\n\n\nFri, Sep 5\n📃[2nd week Summary]\n\n\n📝 HW 1 at 11:50 pm\n\n\n3\nTue, Sep 9\nProbability of Events, Conditional Probability\n💻Chapt 4 4.1, 4.2\n\n\n\n\n\n\nThu, Sep 11\nRules of Probability, Disjoint and Independent\n4.3, 4.4, 4.5\n\n\n\n\n4\nMon, Sep 15\n📃[3rd week Summary]\n\n\n📝 HW 2 at 11:50 pm\n\n\n\n\nTue, Sep 16\nRandom Variable, Discrete RV, Binomial Dist.\n💻Chapt 5 5.1, 5.2, 5.3",
     "crumbs": [
       "Course information",
-      "Useful links"
+      "Schedule"
     ]
   }
 ]
