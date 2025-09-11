@@ -1,6 +1,6 @@
 ---
 title: "Modern Elementary Statistics - Fall 2025"
-execute: 
+execute:
   freeze: false
 ---
 
