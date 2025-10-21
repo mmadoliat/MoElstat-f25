@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tinyurl.com/MoEl-Stat/course-links.html</loc>
-    <lastmod>2025-10-20T17:12:26.917Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tinyurl.com/MoEl-Stat/index.html</loc>
-    <lastmod>2025-10-20T17:12:26.933Z</lastmod>
-  </url>
-  <url>
     <loc>https://tinyurl.com/MoEl-Stat/course-overview.html</loc>
-    <lastmod>2025-10-20T17:12:26.917Z</lastmod>
+    <lastmod>2025-10-21T18:51:28.264Z</lastmod>
   </url>
   <url>
-    <loc>https://tinyurl.com/MoEl-Stat/about.html</loc>
-    <lastmod>2025-10-20T17:12:26.902Z</lastmod>
+    <loc>https://tinyurl.com/MoEl-Stat/course-links.html</loc>
+    <lastmod>2025-10-21T18:51:28.264Z</lastmod>
   </url>
   <url>
     <loc>https://tinyurl.com/MoEl-Stat/computing/computing-cheatsheets.html</loc>
-    <lastmod>2025-10-20T17:12:26.916Z</lastmod>
+    <lastmod>2025-10-21T18:51:28.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyurl.com/MoEl-Stat/index.html</loc>
+    <lastmod>2025-10-21T18:51:28.280Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyurl.com/MoEl-Stat/about.html</loc>
+    <lastmod>2025-10-21T18:51:28.249Z</lastmod>
   </url>
 </urlset>
