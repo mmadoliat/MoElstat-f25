@@ -1,5 +1,5 @@
 ---
-title: "Modern Elementary Statistics - Fall 2025" 
+title: "Modern Elementary Statistics - Fall 2025"
 execute: 
   freeze: false
 ---
